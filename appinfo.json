@@ -1,0 +1,123 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "rorpage",
+    "longName": "WDWNT Now!",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_ICON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/M-24.png",
+                "name": "IMAGES_M_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/H-24.png",
+                "name": "IMAGES_H_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/D-24.png",
+                "name": "IMAGES_D_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/C-24.png",
+                "name": "IMAGES_C_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/A-24.png",
+                "name": "IMAGES_A_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/E-24.png",
+                "name": "IMAGES_E_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Ride-24-Black.png",
+                "name": "IMAGES_RIDE_24_BLACK_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Ride-24.png",
+                "name": "IMAGES_RIDE_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Weather-24.png",
+                "name": "IMAGES_WEATHER_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/TopAttractions-24.png",
+                "name": "IMAGES_TOPATTRACTIONS_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Plans-24.png",
+                "name": "IMAGES_PLANS_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Hours-24.png",
+                "name": "IMAGES_HOURS_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Dine-24.png",
+                "name": "IMAGES_DINE_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Marker-24.png",
+                "name": "IMAGES_MARKER_24_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "WDWNT Now!",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5eff1f86-ffd0-41a7-85e2-7076f0116373",
+    "versionCode": 1,
+    "versionLabel": "3.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
